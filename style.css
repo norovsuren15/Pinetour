@@ -233,11 +233,6 @@
   gap: 20px;
 }
 
-.ppackage {
-  width: 141px;
-  height: 22px;
-}
-
 .day {
   width: 52px;
   height: 52px;
@@ -341,13 +336,18 @@
 }
 
 .gap4 {
+  width: 336px;
+  height: 86px;
   gap: 10px;
-  padding: 12px 24px 0 24px;
+  margin: 12px 24px 0 24px;
 }
 
 .gap5 {
+  width: 336px;
+  height: 180px;
+  justify-content: flex-start;
   gap: 16px;
-  padding: 32px 24px 0 24px;
+  margin: 32px 24px 0 24px;
 }
 
 .gap6 {
